@@ -27,7 +27,7 @@ html {
   left: 29%;
   top: 150px;
   transform: rotate(5deg);
-  z-index: 3;
+
 }
 
 .polaroid:nth-child(3) {
@@ -43,7 +43,7 @@ html {
 
 .polaroid > figcaption {
   color: #fff;
-  text-shadow: 1px 1px 3px #000;
+  text-shadow: 1p  x 1px 3px #000;
   position: absolute;
   bottom: 15px;
   left: 35%;
