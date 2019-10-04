@@ -27,7 +27,7 @@ html {
   left: 29%;
   top: 150px;
   transform: rotate(5deg);
-
+  z-index: 3;
 }
 
 .polaroid:nth-child(3) {
